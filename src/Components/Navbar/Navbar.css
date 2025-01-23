@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Navbar{
+    background-color: black;
+    width: 100%;
+    height: 11vh;
+}
+p{
+    color: white;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 19px;
+    
+}
+span{
+    color: rgb(0, 106, 255);
+}
+a{
+    text-decoration: none;
+}
